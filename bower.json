@@ -12,5 +12,8 @@
     "loadcss": "~0.2.4",
     "loadjs": "https://github.com/filamentgroup/loadJS.git#~0.2.3",
     "filament-fixed": "~0.1.2"
+  },
+  "devDependencies": {
+    "jquery": "^2.2.0"
   }
 }
